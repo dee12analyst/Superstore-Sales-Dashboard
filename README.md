@@ -51,5 +51,5 @@ Made with ❤️ by **Deepa**
 🎯 Aspiring Data Analyst | 📍Saharanpur,Uttarpradesh 
 
 ##Screenshot
-
+https://github.com/dee12analyst/Superstore-Sales-Dashboard/blob/main/Screenshot%202025-08-30%20174351.png
 
